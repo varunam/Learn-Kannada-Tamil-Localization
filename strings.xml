@@ -1,0 +1,710 @@
+<resources>
+    <string name="app_name_english" translatable="false">Learn Kannada SmartApp</string>
+    <string name="app_name">Learn Kannada SmartApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcomeNote">Welcome to Kannada Kali</string>
+    <string name="resultShareBody" translatable="false">Sharing result</string>
+    <string name="certificateText" translatable="false">\t\t has successfully completed quiz \n(Level - %1$s) in the <b>\"Learn Kannada Smartapp\"</b> and secured %2$s.</string>
+    <string name="learn_kannada">Learn Kannada</string>
+    <string name="english">English</string>
+    <string name="kannada">Kannada</string>
+    <string name="translation_mode_k2l">Translation mode: \'Kan to Eng\'</string>
+    <string name="translation_mode_l2k">Translation mode: \'Eng to Kan\'</string>
+
+    <string name="what_is_iwt">What\'s IWT?</string>
+    <string name="update_name">Update name</string>
+    <string name="show_tutor">Show Tutor</string>
+
+    <string name="words">Words</string>
+    <string name="conversations">Conversations</string>
+
+    <string name="description">Description</string>
+    <string name="Example">Example</string>
+    <string name="bugreport_or_feedback">Bug Report/Feedback</string>
+    <string name="feedback">Feedback</string>
+    <string name="instant_word_translation">Instant Word Translation (IWT) </string>
+
+    <string name="go_ex"><b><font color="#f20f08">Eng</font></b> : you go <b><font color="#ffb300">Kan</font></b> : neenu HOGU(singular), neevu HOGI(plural)</string>
+    <string name="for_you_ex"><b><font color="#f20f08">Eng</font></b> : that is for you <b><font color="#ffb300">Kan</font></b> : adu NINAGE(singular), adu NIMAGE(plural)</string>
+    <string name="yours_ex"><b><font color="#f20f08">Eng</font></b> : this is yours\n<b><font color="#ffb300">Kan</font></b> : idu NINNADU(singular), idu NIMMADU(plural)</string>
+    <string name="you_ex"><b><font color="#f20f08">Eng</font></b> : you go there\n<b><font color="#ffb300">Kan</font></b> : NEENU(singular) allige hogu, NEEVU(plural) allige HOGI</string>
+    <string name="come_ex"><b><font color="#f20f08">Eng</font></b> : you come <b><font color="#ffb300">Kan</font></b> : neenu BAA(singular), neevu BANNI(plural)</string>
+    <string name="aboutVoiceArtist" translatable="false">Voice behind APP</string>
+    <string name="rateText">Please take a moment to appreciate our efforts.</string>
+    <string name="neverAsk">Never</string>
+    <string name="remindLater">Later</string>
+    <string name="rateNow">Sure</string>
+    <string name="referFriends">Would you mind letting your friends know about the app?</string>
+    <string name="sure">Sure</string>
+    <string name="later">Later</string>
+    <string name="no">No</string>
+
+    <string name="random_magic">Random Magic</string>
+    <string name="whats_this_string">what\'s this?</string>
+    <string name="randomMagicDialogMessage">"This feature helps you learn most frequently used verbs in kannada and it\'s tenses. \n\nHow to use?\nJust click on the \"CLICK HERE\" button and voila! you will be shown a new verb with it\'s past, present and future tenses.
+    \nClick on any of the cards to listen to the audio message!</string>
+    <string name="too_young_but">Oops! I am too young for sentences. But wait!</string>
+    <string name="SHOW_ME">Show me</string>
+    <string name="sorry_idk_that_yet">Sorry! I don\'t know that yet.</string>
+    <string name="kannada_kali_user" translatable="false">Kannada Kali User</string>
+    <string name="WANTS_TO_CONTACT" translatable="false">Kannada Kali user wants to contact you</string>
+    <string name="would_you_like_to_check">Would you like to check it?</string>
+
+    <!-- About Us Text STARTS HERE -->
+
+    <string name="title_Varun" translatable="false">Varun <font color="#FFFFB300">A M</font></string>
+    <string name="about_Varun" translatable="false">\tSoftware Developer by profession, photographer and keyboardist by passion.
+     Key player in the app development </string>
+    <string name="connect" translatable="false"><b><u>Contact us</u></b></string>
+    <string name="developer" translatable="false">Developer</string>
+    <string name="title_Rohith" translatable="false">Ro<font color="#FFF20F08">hith</font> S</string>
+    <string name="about_Rohith" translatable="false">\tSoftware Developer by profession, adventure lover by passion. Key player in the app development</string>
+    <string name="title_Pooja" translatable="false">Pooja H N</string>
+    <string name="about_pooja" translatable="false">\tSoftware Developer by profession. She loves to travel and read novels! She is behind the voice of IWT and 90% of all others words and conversations.</string>
+    <string name="voicesBehind" translatable="false"><u>Voices behind the app</u></string>
+    <string name="title_ganesh" translatable="false">Ganesha R</string>
+    <string name="about_ganesh" translatable="false">\tSoftware Engineer by profession, bike rider by passion. Listen to him as auto driver and a friend under conversations category.</string>
+    <string name="title_Bharghavi" translatable="false">Bhargavi</string>
+    <string name="contact_HithAM" translatable="false">Contact <font color="#FFF20F08">H</font>ith<font color="#FFFFB300">AM</font></string>
+    <string name="about_bharghavi" translatable="false">\t Software Engineer by profession, classical musician by passion. She would love to dance and play sports! Listen to her voice as owner in owner-maid conversations.</string>
+    <string name="title_samraddha" translatable="false">Samraddha</string>
+    <string name="about_sammy" translatable="false">\tSoftware Engineer by profession, adventurist by passion! Listen to his voice as conductor, vendor etc under conversations.</string>
+
+    <!-- About Us Text ENDS HERE -->
+
+
+    <string name="navigation_drawer_open" translatable="false">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close Navigation Drawer</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="FRAMING_EMAIL" translatable="false">Framing email for you…</string>
+    <string name="kannadaText" translatable="false">ಕನ್ನಡವೇ ಸತ್ಯ, ಕನ್ನಡವೇ ನಿತ್ಯ</string>
+    <string name="help_from_friend" translatable="false">Hey, \nI was trying to finish quiz in \"Learn Kannada - Smartapp\" but got stuck here. Would you mind helping
+                    me out? \n\nBtw, it is very easy to learn spoken Kannada using this app. I recommend you also to try this.
+                    \n\nDownload it here:\n
+                    https://play.google.com/store/apps/details?id=app.learnkannada.com.learnkannadakannadakali
+                    \n\nWatch Trailer here: \n
+                    https://www.youtube.com/watch?v=wIE1qeBaUAQ</string>
+    <string name="below50_remarks">Sorry! \nPlease try again…</string>
+    <string name="below80_remarks">Not bad! \nBut, you can do better…</string>
+    <string name="below100_remarks">Well Done! \nAlmost there…</string>
+    <string name="equal100_remarks">Congratulations!!\nYou aced it like a pro!</string>
+    <string name="welcome_to_iwt">\nWelcome to <font color="#7c5e5d"><b>Instant Word Translation&#9996;\n\n</b></font>
+                                    -- Wondering who is this IWT? Well, Let me introduce myself.\n
+                                    -- I am here to help you in translating any English Word to Kannada and also any Kannada word to English.\n
+                                    -- Use that tiny switch below to select mode from English to Kannada or Kannada to English.\n
+                                    -- I would also <i>speak it out loud for you</i>, so that you get to know the pronunciation.\n
+                                    -- Not to forget, If you are a non-VIP, I will consume one \"<u>KK Coin</u>\" for every word I translate for you!\n
+                                    \nBecause… that\'s food for me! &#9786;\n
+                                    -- If you are a VIP, I translate unlimited words for FREE
+                                    \n<font color="#7c5e5d"><b>Happy</b></font><font color="#7c5e5d"><b> \'IWT\'ing :)</b></font></string>
+    <string name="welcome_to_iwt_voice">\nWelcome to Instant Word Translation
+                                    -- Wondering who is this IWT? Well, Let me introduce myself\n
+                                    -- I am here to help you in translating any English Word to Kannada and also any Kannada word to English\n
+                                    -- Use that tiny switch below to select mode from English to Kannada or Kannada to English.\n
+                                    -- I would also speak it out loud for you, so that you get to know the pronunciation\n
+                                    -- Not to forget, If you are a non-VIP, I will consume one \"KK Coin\" for every word I translate for you\n
+                                    -- Because… \nthat\'s food for me!\n See you around. Bye bye!
+                                    --  If you are a VIP, I translated unlimited words for FREE
+                                    \n<font color="#7c5e5d"><b>Happy</b></font><font color="#7c5e5d"><b> \'IWT\'ing</b></font></string>
+    <string name="welcome_to_conversations">\nWelcome to <font color="#7c5e5d"><b>Sample Conversations\n\n</b></font>
+                                    -- The category has sample conversation on a particular context\n
+                                    -- Every sentence in the conversation has translation to Kannada, Kannada script and also audio message for better knowing the pronunciation\n
+                                    -- If you are a non-VIP, each conversation would cost you 5 \"<u>KK Coins</u>\"\n
+                                    -- If you are a VIP, you get UNLIMITED conversations for FREE.
+                                    -- You can earn or buy KK Coins to fill up your Coins treasury\n
+    </string>
+    <string name="rupee" translatable="false">\u20B9</string>
+    <string name="thank_you_for_shopping">Thanks for the purchase.  You will soon receive a receipt on your registered email ID.</string>
+    <string name="TryYourself">Try Yourself</string>
+    <string name="correct_answer_appreciation">That\'s correct\nGood Job</string>
+    <string name="wrong_answer">That\'s wrong\nTry again</string>
+
+    <string name="flexi_course">Flexi Course</string>
+    <string name="ten_days_course">10 Days Course</string>
+
+    <string name="congratulations">Congratulations!!</string>
+    <string name="thank_you">Thank you</string>
+    <string name="device_not_supported">Device not supported</string>
+    <string name="clear">Clear</string>
+    <string name="how_to_write">How to write?</string>
+    <string name="trywriting">Try writing above</string>
+    <string name="exit">EXIT</string>
+
+    <string name="ten_days_course_heading">\"Kannada Gottilla?\" \nGive me ten days!</string>
+    <string name="ten_days_course_description">Learn number of words everyday with each having audio, example and an option to validate your pronunciation!</string>
+    <string name="flexi_course_heading">Enjoy learning at your own pace!</string>
+    <string name="flexi_course_description">Not a timeline person? We got you covered. Learn everything from alphabet to conversations at your own pace!</string>
+    <string name="quiz_heading">Done with learning? \nTest yourself!</string>
+    <string name="quiz_description">Once you feel confident enough, you can take our specially designed quizzes under 3 levels of difficulties!</string>
+    <string name="coins_heading">Kannada Kali Coins</string>
+    <string name="iwt_heading">Smart feature for smart people!</string>
+    <string name="iwt_description">Get instant translation from English to Kannada or vice-versa with audio message in just a click!</string>
+
+    <string name="teach_hey_welcome">Hey,   Welcome to  <font color="#f20f08">Learn Kannada</font> - <font color="#ffb300">Smartapp</font></string>
+    <string name="teach_first_word_desc">Time to learn your first word in Kannada</string>
+    <string name="teach_user_turn_now">Cool \nNow it\'s your turn to try it!</string>
+    <string name="teach_what_is_our_in_kannada">What is \'Our\' in Kannada?</string>
+    <string name="teach_our_translation">our = namma (ನಮ್ಮ)\n\nex: \nnamma metro \n(ನಮ್ಮ ಮೆಟ್ರೊ)</string>
+    <string name="congratulations_first_word">Congratulations!! \nYou just learned your first word in Kannada!</string>
+    <string name="cant_try_now"><u>I can\'t speak at the moment</u></string>
+    <string name="skip"><u>Skip>></u></string>
+    <string name="waiting_for_first_bookmark">Bookmark a word to see it here</string>
+    <string name="donation_title">Thank you for your kind gesture</string>
+    <string name="how_much_donation">How much would you like to donate?</string>
+    <string name="donation_hint">Donate in INR</string>
+    <string name="donation_note">(You can donate as low as INR 10)</string>
+    <string name="donate">Donate</string>
+    <string name="try_donation_again_message">Seems like your donation didn\'t go through. Would you like to try again?</string>
+    <string name="cancel">Cancel</string>
+    <string name="follow_us">Follow us</string>
+    <string name="disclaimer">Disclaimer</string>
+    <string name="about_app">About the app</string>
+    <string name="about_us">About Us</string>
+    <string name="app_powered" translatable="false">App powered by HithAM</string>
+    <string name="rate_this_app">Rate this app</string>
+    <string name="refer_a_friend">Refer a friend</string>
+    <string name="treasury">Treasury</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="thumb_rule" translatable="false">Thumb Rule</string>
+    <string name="donate_us" translatable="false"><u>Donate us</u></string>
+    <string name="i_understand">I Understand</string>
+    <string name="no_app_found_to_open_link">No app found to open this link</string>
+    <string name="are_you_sure_to_contact" translatable="false">Are you sure to contact HithAM?</string>
+    <string name="yes">Yes</string>
+    <string name="hello_hitham" translatable="false">Hello Team HithAM</string>
+    <string name="please_enter_msg_here" translatable="false">--- Please enter your text here ---</string>
+    <string name="regards" translatable="false">Regards,</string>
+    <string name="suggest">Suggest</string>
+    <string name="no_suggestions_entered">No suggestions entered!</string>
+    <string name="payment_cancelled_try_again">Payment Cancelled \nPlease try again</string>
+    <string name="good_job">Good job!</string>
+    <string name="try_again">Try again!</string>
+    <string name="cab_driver">Cab/Auto Driver</string>
+    <string name="new_maid">New Maid</string>
+    <string name="regular_maid">Regular Maid</string>
+    <string name="friend">Friend</string>
+    <string name="bus_conductor">Bus-conductor</string>
+    <string name="vendor">Vendor</string>
+    <string name="delivery_boy">Delivery boy</string>
+    <string name="ask_directions">Asking directions</string>
+    <string name="doctor">Doctor</string>
+    <string name="dentist">Dentist</string>
+    <string name="neighbour">Neighbour</string>
+    <string name="open_account">Opening Account</string>
+    <string name="learned_all_verbs">You have successfully learned all the available verbs. \n\nStay tuned for more!</string>
+    <string name="start_over">Start over</string>
+    <string name="verbs_disclaimer">All the verbs written here are with respect to \"First Person\" only.\nThey get changed a little for Second and Third person (coming soon).</string>
+    <string name="suggest_verbs">Suggest Verbs</string>
+    <string name="ok">OK</string>
+    <string name="hey_user">Hey %s,</string>
+    <string name="no_bookmarks">No words bookmarked</string>
+    <string name="bookmark_removed" translatable="false">Bookmark removed</string>
+    <string name="bookmarked_word" translatable="false">Bookmarked \'%s\'</string>
+    <string name="bookmarking_welcome_description">Welcome to Bookmarking feature.\n\nHere is how it works
+        \n-- You can tap on the empty star icon to bookmark any word you like and tap on the icon again to remove bookmark.
+        \n-- If you are a non-VIP, every bookmark will cost you 1 \'KK Coin\'
+        \n-- If you are a VIP, you get UNLIMITED Bookmarks for FREE.
+        \n\nHappy Bookmarking!</string>
+    <string name="playlist_welcome_description">Welcome to Playlist Feature.  Here is how it works\n\n
+        -- Tapping on the Play button starts the auto-play of all the words in the list\n
+        -- The word currently being played will be highlighted so that you do not lose track\n
+        -- The page will be auto-scrolled. You can just sit-back and relax!\n
+        -- Using this feature will cost you %d \'KK Coins\' once per list/page\n
+        -- Lifetime FREE for VIP members.\n\n
+        The first time is absolutely FREE for non-VIP members!!</string>
+    <string name="cool">Cool</string>
+    <string name="no_notifications_available_to_delete">No notifications available to delete</string>
+    <string name="waiting_for_a_notification">Waiting for a notification!</string>
+    <string name="quiz">Quiz</string>
+    <string name="share_result">Share Result</string>
+    <string name="retry">Retry</string>
+    <string name="next">Next</string>
+    <string name="share">Share</string>
+    <string name="review">Review</string>
+    <string name="added_coins_to_wallet">-- Added 10 coins back to wallet --</string>
+    <string name="quizzes_introduction">Welcome to Quizzes. I understand that you are excited to test yourself!\n
+        Before that, let me tell you few things\n\n
+        -- Each level has 10 sets of quizzes\n
+        -- Each set has 10 MCQ Questions\n
+        -- If you are a non-VIP, each set of quiz costs you 10 KK Coins\n
+        -- If you are a VIP, you get UNLIMITED quizzes for FREE\n
+        -- You will get your deducted coins back if you score 100%\n\n
+
+        Happy Quizzing...  :)</string>
+    <string name="start_easy">Start Easy</string>
+    <string name="uh_oh">Uh-Oh!</string>
+    <string name="cannot_continue_without_completing_level">You cannot proceed without completing Level %s</string>
+    <string name="enter_level">Enter %s</string>
+    <string name="quiz_progress">%d%s completed</string>
+    <string name="what_is_quiz_desc">There are three levels of difficulty in Quizzes.\n
+        \n1. Easy
+        \n2. Intermediate
+        \n3. Difficult
+        \n
+        \n-- Each level has got 10 sets of questions with 10 questions in each set.
+        \n-- If you are a non-VIP, you require at-least 10 KK coins to take an easy set, 12 to take an intermediate set and 15 to take a difficult set.
+        \n-- If you are a VIP, you get UNLIMITED quizzes under all levels.
+        \n-- The questions might ask you to translate any word to kannada or the vice-versa and you should choose the right answer among the given four options.
+        \n-- Higher the difficulty, tougher will be the translation of words/sentences.
+        \n--On completion of each set with score more than threshold, you will be able to click on share icon to generate and share your certificate.
+        \n-- You will not be able to attend higher levels of quizzes without finishing the lower level.</string>
+    <string name="score_more">Score more</string>
+    <string name="scoring_desc">Please note that each question is for 1 mark and there will be 10 questions in each set.           -- You should score minimum 50% to pass the test and you will never be allowed to try new set otherwise.          -- If you score above 50% and below 100%, you can retry any number of time to achieve higher scores          -- You should also be able to review your answers at the end, only if you score above 50%.</string>
+    <string name="quiz_review">Quiz Review</string>
+    <string name="what_would_you_like_to_do">What would you like to do now?</string>
+    <string name="exit_quiz">Exit Quiz</string>
+    <string name="try_new_set">Try new set</string>
+    <string name="loving_kannada_kali">Loving Kannada kali?</string>
+    <string name="log_in">Sign In</string>
+    <string name="no_transations_without_emoji">Use it. It ain\'t a bitcoin!</string>
+
+    <!-- Strings related to login -->
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="register">Register</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="password_is_too_short">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="action_next">Next</string>
+    <string name="verification_email_sent" translatable="false">Verification email sent to</string>
+    <string name="login_success" translatable="false">Logged in Successfully!</string>
+    <string name="auth_failed_retry">Authentication failed \nPlease retry</string>
+    <string name="or">OR</string>
+    <string name="signin_with_google">Sign in with Google</string>
+    <string name="error_invalid_password">Invalid Password</string>
+    <string name="creating_account" translatable="false">Creating Account</string>
+    <string name="email_not_verified">Email not verified!</string>
+    <string name="please_verify_email_message">Please verify your email to activate your account</string>
+    <string name="send_email_again">Send e-mail again</string>
+    <string name="failed_please_try_again">Failed to send email. Please try again</string>
+    <string name="logged_in_as" translatable="false">Logged in as </string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="reset_email_willbe_sent_message">A password reset email will be sent to the registered email id</string>
+    <string name="hey_there">Hey there,</string>
+    <string name="signedup_using_google">Seems like you signed up with Google. Please login using the same</string>
+    <string name="quizzes_attended" translatable="false"><u>5/10</u></string>
+    <string name="signedout_success" translatable="false">Signed out successfuly!</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="signout_alert_message">You might lose all your coins and other progress on signing out.</string>
+    <string name="sign_out">SIGN OUT</string>
+    <string name="please_select_gender">Please select a gender to continue</string>
+    <string name="quizzes_completed_description">You have completed %d quiz sets out of 30 available</string>
+    <string name="check_internet_connection">Please check your internet connection</string>
+    <string name="why_sign_in_title">Why should I sign in?</string>
+    <string name="why_sign_in_message">"Here's why\n
+        -- Never lose your KK coins, the words you have bookmarked and your quiz progress.\n
+        -- No need to start over when you do a factory reset or switch phones or reinstall the app."</string>
+    <string name="quiz_completed_retry_alert">You have already completed all sets available under this category. Would you still         like to continue?   Note: Your progress under this category will be lost</string>
+    <string name="login_support" translatable="false">Requesting support to sign into my account</string>
+    <string name="dual_sign_in_dialog_message">Seems like you are already signed-in on a different device. \nYou can only be signed-in on one device at a time!</string>
+    <string name="did_not_sign_in">You did not sign-in</string>
+    <string name="create_new">Create new</string>
+    <string name="notifications">Notifications</string>
+    <string name="disable_optimisation_message"><u>Not receiving notifications? \ndisable <b>Battery Optimisation</b> here</u></string>
+    <string name="thats_cool">That\'s cool</string>
+    <string name="display_name">Display Name</string>
+    <string name="donot_edit_warning" translatable="false">-- Please don\'t edit anything below this line --</string>
+    <string name="try_vip_message"><![CDATA[<u>Want to get rid of coins? <br />Try our <b>VIP Membership</b></u>]]></string>
+    <string name="infinite">INFINITE</string>
+    <string name="iwt_for_free">Use IWT for <b>FREE</b></string>
+    <string name="bookmarks_for_free">UNLIMITED <b>FREE</b> bookmarks</string>
+    <string name="quizzes_for_free">Take Quizzes anytime for <b>FREE</b></string>
+    <string name="all_at_vip_price">All at just <b>INR 250 </b>for</string>
+    <string name="is_it_worth_vip"><u>is it worth becoming a<b> VIP Member?</b></u></string>
+    <string name="calculation_message">Here is our hypothetical calculation of avg coins used by a user per month, based on our \'Data Analysis\'</string>
+    <string name="calculation_end_message">The above data analysis shows that you get your money back within a month of becoming a <b>VIP member</b></string>
+    <string name="become_vip_and_save_now">Become VIP and save now</string>
+    <string name="calculation_is_it_worth_vip">Is it worth? \n<b>Find it yourself</b></string>
+    <string name="vip_membership">VIP Membership</string>
+    <string name="thanks_for_donation_message"><![CDATA[<b>Thank you</b> for your donation of %s rupees. <b><br />Payment ID: %s</b><br />Please check your email for the receipt]]></string>
+    <string name="thanks_for_vip_message"><![CDATA[Thank you for buying <b>VIP Membership <br /> <br />Please check your email for the detailed receipt]]></string>
+    <string name="kk_coins_heading">\'Kannada Kali Coins\'</string>
+    <string name="kk_coins_description">Use \'KK coins\' to get access to premium features in the app. Sign up to get 10 coins and you can watch ad or buy coins anytime to fill up your treasury.</string>
+    <string name="sign_up_now">Sign up now</string>
+    <string name="opening_link" translatable="false">Opening link</string>
+    <string name="please_try_again">Please try again</string>
+    <string name="sign_in_condition">By Signing in, you agree to our <b>Privacy Policy</b></string>
+    <string name="password_reset_email_sent_to" translatable="false">Password Reset email sent to</string>
+    <string name="one_word_day">One Word a Day!</string>
+    <string name="daily_word_desc">Don\'t have time for too many words? We got your back! Learn a word with pronunciation everyday, through our daily word notifcations</string>
+    <string name="no_words_to_play">No words to play</string>
+    <string name="play_for_free">Play For Free</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="get_10_coins">Get 10 coins</string>
+    <string name="support">Support</string>
+    <string name="alphabet">Alphabet</string>
+    <string name="practical">Practical</string>
+    <string name="theory">Theory</string>
+    <string name="syllables">Syllables</string>
+    <string name="subscribe_on_youtube">Subscribe on Youtube</string>
+    <string name="syllables_title">Syllables   (ಕಾಗುಣಿತ) kagunita</string>
+    <string name="consonants_without_diatric">Consonants without diatric</string>
+    <string name="syllables_desc">Consonants without diatric gets combined with vowels/diatric to form consonants with diatric.</string>
+    <string name="consonants_without_diatric_ex" translatable="false">ex: k(ಕ್)</string>
+    <string name="plus" translatable="false">+</string>
+    <string name="vowel">Vowel</string>
+    <string name="vowel_ex">ex: aa(ಆ)\n(diatric = ಾ)</string>
+    <string name="equals" translatable="false">=</string>
+    <string name="consonants_with_diatric">Consonant with diatric</string>
+    <string name="consonants_with_diatric_ex" translatable="false">ex: kaa(ಕಾ)</string>
+    <string name="diatric_desc">Diatric can be referred as an accent. Adding a diatric to any consonant will change the way it is pronounced.</string>
+    <string name="consonant">consonant</string>
+    <string name="consonants">Consonants</string>
+
+    <string-array name="donations">
+        <item>10</item>
+        <item>50</item>
+        <item>100</item>
+        <item>200</item>
+        <item>300</item>
+        <item>400</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>2000</item>
+        <item>5000</item>
+        <item>10000</item>
+    </string-array>
+    <string name="title_activity_compound_letters" translatable="false">CompoundLettersActivity</string>
+    <string name="compound_letters">Compound Letters</string>
+    <string name="compound_letters_title">Compound Letters  (samyuktaksharagaLu - ಸಂಯುಕ್ತಾಕ್ಷರಗಳು)</string>
+    <string name="compound_letters_desc">Consonant gets combined with one or more consonants to form compound letters.   Below example explains         how <b>n(ನ್), n(ನ್) and a(ಅ)</b> gets combined to form <b>nna(ನ್ನ)</b>, a compound letter in the word <u>\'kannaDa(ಕನ್ನಡ)\'</u></string>
+
+    <string name="kannada_letter_1">
+        <font color="#464e51">ಕ್(k)</font>
+        <font color="#464e51"> + </font>
+        <font color="#464e51">ಅ(a) </font>
+        <font color="#464e51"> = </font>
+        <font color="#464e51">ಕ(ka)</font> <br />
+    </string>
+    <string name="kannada_letter_2">
+        <font color="#ac0b0b">n(ನ್)</font>
+        <font color="#ac0b0b"> + </font>
+        <font color="#ac0b0b">n(ನ್)</font>
+        <font color="#ac0b0b"> + </font>
+        <font color="#ac0b0b">a(ಅ)</font>
+        <font color="#ac0b0b"> = </font>
+        <font color="#ac0b0b">nna(ನ್ನ)</font> <br />
+    </string>
+    <string name="kannada_letter_3">
+        <font color="#464e51">D(ಡ್)</font>
+        <font color="#464e51"> + </font>
+        <font color="#464e51">a(ಅ)</font>
+        <font color="#464e51"> = </font>
+        <font color="#464e51">Da(ಡ)</font> <br />
+    </string>
+    <string name="kannada_split">
+        <font color="#464e51">ka</font>
+        <font color="#ac0b0b">nna</font>
+        <font color="#464e51">Da</font>
+        <font color="#464e51">(ಕ</font>
+        <font color="#ac0b0b">ನ್ನ</font>
+        <font color="#464e51">ಡ)</font>
+    </string>
+    <string name="compound_letters_classification_title">Based on whether the consonant gets combined with the same consonant or a different consonant,         compound letters are classified into two.</string>
+    <string name="sajati_samyuktakshara">Sajaati samyuktaksharagaLu  (ಸಜಾತಿ ಸಂಯುಕ್ತಾಕ್ಷರಗಳು)</string>
+    <string name="compound_letters_type1_desc">sajaati means \"of same type / same caste \". If a consonant gets combined with the same type of consonant,
+        then it is referred as <b>\'sajaati samyuktakshara\'</b>\nFor example, </string>
+    <string name="sajati_samyuktakshara_example">
+        <font color="#464e51">ka(ಕ) + </font>
+        <font color="#ac0b0b">n(ನ್)</font>
+        <font color="#464e51"> + </font>
+        <font color="#ac0b0b">n(ನ್)</font>
+        <font color="#464e51"> + </font>
+        <font color="#ac0b0b">a(ಅ)</font>
+        <font color="#464e51"> + </font>
+        <font color="#464e51">Da(ಡ)</font>\n
+        <font color="#ac0b0b"> = </font>\n
+        <font color="#464e51">kannaDa (ಕ</font>
+        <font color="#ac0b0b">ನ್ನ</font>
+        <font color="#464e51">ಡ)</font>
+    </string>
+    <string name="vijati_samyuktakshara">Vijaati samyuktaksharagaLu  (ವಿಜಾತಿ ಸಂಯುಕ್ತಾಕ್ಷರಗಳು)</string>
+    <string name="compound_letters_type2_desc">vijaati means \"of different type / different caste \". If a consonant gets combined with a different type of consonant,
+        then it is referred as <b>\'vijaati samyuktakshara\'</b>\nFor example, </string>
+    <string name="vijati_samyuktakshara_example">
+        <font color="#464e51">shu(ಶು) +</font>
+        <font color="#ac0b0b">k(ಕ್)</font>
+        <font color="#464e51"> + </font>
+        <font color="#ac0b0b">r(ರ್)</font>
+        <font color="#464e51"> + </font>
+        <font color="#ac0b0b">a(ಅ)</font>
+        <font color="#464e51"> + </font>
+        <font color="#464e51">vaara(ವಾರ)</font>\n
+        <font color="#ac0b0b"> = </font>\n
+        <font color="#464e51">shukravaara (ಶು</font>
+        <font color="#ac0b0b">ಕ್ರ</font>
+        <font color="#464e51">ವಾರ)</font>
+    </string>
+    <string name="video">Video</string>
+    <string name="grammar">Grammar</string>
+    <string name="day">Day</string>
+    <string name="movies">Movies</string>
+    <string name="featured_videos">Featured Videos</string>
+    <string name="title" translatable="false">Title</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="songs">Songs</string>
+    <string name="comedy">Comedy</string>
+    <string name="trailers">Latest Trailers</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="no_internet_text">It looks like you are offline. Please connect to internet to enjoy this section</string>
+    <string name="thumb_rule_desc" translatable="false">-- Always try to translate given English sentences to your mother tongue first and then to Kannada. \n\n--This helps you understand and learn Kannada faster!</string>
+    <string name="got_it">Got it</string>
+    <string name="learn">Learn</string>
+    <string name="lets_try">Let\'s Try</string>
+    <string name="warning">Warning!</string>
+    <string name="no_problem">No Problem</string>
+    <string name="show_me">Show Me</string>
+    <string name="update">Update</string>
+    <string name="enter_name">Enter name here</string>
+    <string name="save">Save</string>
+    <string name="short_movies">Short Movies</string>
+    <string name="latest_trailers">Latest Trailers</string>
+    <string name="close">Close</string>
+    <string name="lets_add">Let\'s add</string>
+    <string name="thanks">Thanks</string>
+    <string name="get_x_coins_back">Get %d coins back</string>
+    <string name="get_coins_back">Get coins back</string>
+    <string name="watch_ad_and_support"><![CDATA[Watch an ad & support]]></string>
+    <string name="show_intro">Show Intro</string>
+    <string name="grammar_intro">Grammar Intro</string>
+    <string name="unlimited_quizzes_and_conversations">UNLIMITED <b>FREE</b> conversations and quizzes</string>
+    <string name="lifetime_free_entertainment">Lifetime <b>FREE</b> Entertainment</string>
+    <string name="grammar_free">UNLIMITED <b>FREE</b> grammar video tutorials</string>
+    <string name="like_video">Like Video</string>
+    <string name="unlike_video">Unlike Video</string>
+    <string name="liked_videos">Liked Videos</string>
+    <string name="uid" translatable="false">UID</string>
+    <string name="logo" translatable="false">logo</string>
+    <string name="iwt" translatable="false">IWT</string>
+    <string name="sure_to_delete">Are you sure to delete all notifications?</string>
+    <string name="notifications_delete_message">Please  note that this action is irreversible!</string>
+    <string name="delete">Delete</string>
+    <string name="copy_title">Copy Title</string>
+    <string name="copy_desc">Copy Description</string>
+    <string name="copy_url">Copy URL</string>
+    <string name="copy_all">Copy ALL</string>
+    <string name="language">Language</string>
+    <string name="choose_lang">Choose Language</string>
+    <string name="default_language">English</string>
+    <string name="feature_not_available">Feature Not Available</string>
+
+    <string name="wallet_payments">Wallet Payments</string>
+    <string name="wallet_payment_request" translatable="false">Hey Team, \n\nI would like to puchase *%s* product which costs *%s* rupees and I would like to make payment *through wallet*.
+    Request you to please help me with the same. \n\nRegistered Email address: %s \n\n*----- NO NEED TO EDIT, JUST HIT SEND -----*</string>
+    <string name="contacting_on_whatsapp" translatable="false">Contacting team on WhatsApp</string>
+    <string name="no_app_found_to_perform_this_action">No app found to perform this action</string>
+    <string name="netbanking_payment">Netbanking Payments</string>
+    <string name="checkout_this_antonym_translation">Check out this Antonym Translation\n\n</string>
+    <string name="shared_via_learnKannadaSmartApp">\nShared via \'Learn Kannada Smartapp\'</string>
+    <string name="word">Word</string>
+    <string name="antonym">Antonym</string>
+    <string name="download_the_app_here">Download the app here</string>
+    <string name="not_receiving_notifications">Not receiving notifications?</string>
+    <string name="please_disable_battery_optimisation" translatable="false">Please disable battery optimisation</string>
+    <string name="example_found_for">Yay! Example found for \"%s\"</string>
+
+    <string name="try_saying">Try saying \"%s\"</string>
+    <string name="can_give_different_example_for">I can give you different example for \"%s\"</string>
+    <string name="locale">English</string>
+    <string name="bad_word_warning">That\'s really a bad word. Better you don\'t use it!</string>
+    <string name="would_you_like_to_add">Would you like to add \"%s\" to my vocabulary?</string>
+    <string name="skip_upper_case">SKIP</string>
+    <string name="next_upper_case">NEXT</string>
+    <string name="coins_shortage_description">You need at least \"%d\" coins in your treasury to perform this action\n\nAvailable Coins: %d</string>
+    <string name="coin_shortage_description">You need at least \"%d\" coins in your treasury to perform this action\n\nAvailable Coins: %d</string>
+    <string name="coins_treasury">Coins Treasury</string>
+    <string name="watch_video">Watch Video</string>
+    <string name="buy_coins">Buy Coins</string>
+    <string name="watch_ad">Watch AD</string>
+    <string name="get_2_coins">Get 2 coins</string>
+    <string name="get_5_coins">Get 5 coins</string>
+    <string name="yes_you_can">Yes, you can!</string>
+    <string name="coins_added_message">You just added %d coins to the wallet\n\nAvailable Coins: %d</string>
+    <string name="coin_added_message">You just added %d coins to the wallet\n\nAvailable Coins: %d</string>
+    <string name="ask_name">\nSeems like you never told me your name before. How would you like me to call you?</string>
+    <string name="enter_name_error">Please enter your name to save</string>
+    <string name="nice_name">Nice name</string>
+    <string name="happy_learning">Happy Learning</string>
+    <string name="update_name_message">\nI thought \"%s\" was your name! However,\nWhat is your new name!?</string>
+    <string name="please_enter_name">Please enter your name</string>
+    <string name="i_will_remember_that">I will remember that!</string>
+    <string name="add_coins">Add Coins</string>
+    <string name="transactions_history">Transaction History</string>
+    <string name="trouble_watching_ads_message">Don\'t worry! Continue reading to understand error messages.\n\n
+                1. Error: No ads at the moment. Please try again/later.\n
+                Reasons:\n +
+                -- Our ads provider might not be handling your region yet\n
+                -- There might be no ads in the inventory to display\n\n
+                2. Error: You can watch only %d times in %d minutes.\n
+                Reasons:\n
+                -- %d is the limit number of times you can watch ad in %d minutes. Try after sometime to watch ad again.\n\n</string>
+    <string name="disclaimer_message">-- This is a FREE app.\n
+        -- \"10 Days Course\" has been designed to help people learn \"Basic Spoken Kannada\".
+        This does not guarantee the complete learning of Kannada language.\n
+        -- Translations given at some places in the app are not in pure Kannada.\n
+        -- We have used English words at many places to keep the learning simple and appealing.
+        This attempt should not be mistaken as disrespect to Kannada language.\n
+        -- Individual names used in the app are used for illustration purposes ONLY.
+        If anybody\'s name is matching with the names used in the app, it\'s purely coincidental.\n
+        -- HithAM Creations is not responsible for any damage caused due to misuse of this application.
+        The app is published for the sole purpose of helping people learn spoken Kannada only.\"</string>
+    <string name="about_app_message">-- Kannada Kali app is being developed by \"HithAM Creations\",
+        a team of two passionate developers.\n
+        -- The app is exclusively developed for people who want to learn \"Spoken Kannada\" on the go.\n
+        -- We are working really hard to add more and more exciting features to the app.\n
+        -- We request all the users to spend some time on the app and let us know your expectations.\n
+        -- Please help us improve this app by providing your valuable suggestions.\"</string>
+    <string name="share_app_message">Check out this nifty smart-app which can help you ace spoken Kannada in just 10 days.\n\n
+        Download Kannada Kali app now!\n
+        %s\n\n
+        Trailer here:\n%s</string>
+
+    <!-- TUTOR STARTS -->
+    <string name="tutor_title_1">Learn with fun!</string>
+    <string name="tutor_message_1">Knowledge, Quizzes and Entertainment all under one roof!</string>
+    <string name="tutor_title_2">Learn at your pace!</string>
+    <string name="tutor_message_2">Choose among \'Daily Course\' or \'Flexi Course\' as per your learning schedule!</string>
+    <string name="tutor_title_3">Instant Word Translation</string>
+    <string name="tutor_message_3">Toggle the switch to change translation mode from Kannada to English or vice-versa</string>
+    <string name="tutor_title_4">\n\nNever miss a notification</string>
+    <string name="tutor_message_4">Find all the notifications you received here!</string>
+    <string name="start">Start</string>
+    <string name="tutor_title_5">\n\nMany more…</string>
+    <string name="tutor_message_5">Click here to find more features in the app</string>
+    <string name="tutor_end_message">Let the learning begin!</string>
+    <!-- TUTOR ENDS -->
+
+    <!-- FIRST WORD STARTS -->
+    <string name="skip_learning_first_word">Skip learning first word?</string>
+    <string name="cant_speak">Can\'t speak?</string>
+    <string name="sure_to_skip_and_proceed">Are you sure to skip this now and proceed?</string>
+    <string name="dive_in">DIVE IN</string>
+    <string name="learn_kannada_through">Learn Kannada through</string>
+    <string name="hindi" translatable="false">हिंदी</string>
+    <string name="easy">EASY</string>
+    <string name="dummy_quiz_count" translatable="false">0/10</string>
+    <string name="easy_tag_line">Straight Questions, No Twists!</string>
+    <string name="_10" translatable="false">10</string>
+    <string name="intermediate">INTERMEDIATE</string>
+    <string name="intermediate_tagline">Keep calm and Read carefully!</string>
+    <string name="_12" translatable="false">12</string>
+    <string name="difficult">DIFFICULT</string>
+    <string name="difficult_tagline">Finish the app to make it easy!</string>
+    <string name="_15" translatable="false">15</string>
+
+    <!-- VERBS STARTS HERE -->
+    <string name="click_here">Click here</string>
+    <string name="root_verb">Root Verb</string>
+    <string name="verb_eng">Verb - Eng</string>
+    <string name="verb_kan">Verb - Kan</string>
+    <string name="past_tense">Past Tense</string>
+    <string name="verb_past">Verb - past</string>
+    <string name="present_tense">Present Tense</string>
+    <string name="verb_present">Verb - present</string>
+    <string name="future_tense">Future Tense</string>
+    <string name="verb_future">Verb - Future</string>
+    <string name="past_cont_tense">Past Continuous Tense</string>
+    <string name="verb_past_cont">Verb - past continuous</string>
+    <string name="present_cont_tense">Present Continuous Tense</string>
+    <string name="verb_present_cont">Verb - present continuous</string>
+    <string name="future_cont_tense">Future Continuous Tense</string>
+    <string name="verb_fut_cont">Verb - Future Continuous</string>
+    <!-- VERBS ENDS HERE -->
+
+    <string name="opposite_symbol" translatable="false">X</string>
+
+    <!-- COINS PURCHASE STARTS -->
+    <string name="choose_plan">Choose Plan</string>
+    <string name="coins_10_plan" translatable="false">10$ - 20</string>
+    <string name="coins_20_plan" translatable="false">20$ - 45</string>
+    <string name="coins_40_plan" translatable="false">40$ - 100</string>
+    <string name="coins_100_plan" translatable="false">100$ - 250</string>
+    <string name="coins_200_plan" translatable="false">200$ - 550</string>
+    <string name="buy">Buy</string>
+    <string name="payment_receipt">Payment Receipt</string>
+    <string name="amount_paid">Amount Paid</string>
+    <string name="payment_status">Payment Status</string>
+    <string name="success">SUCCESS</string>
+    <string name="order_id">Order ID</string>
+    <string name="coins_purchased">Coins Purchased</string>
+    <string name="copy_order_id">Copy Order ID</string>
+    <!-- COINS PURCHASE ENDS -->
+
+    <string name="certificate">Certificate</string>
+    <string name="proceed">Proceed</string>
+    <string name="coins">Coins</string>
+    <string name="quizzes">Quizzes</string>
+
+    <string name="suggestion_1">Suggestion 1</string>
+    <string name="suggestion_2">Suggestion 2</string>
+    <string name="suggestion_3">Suggestion 3</string>
+    <string name="become_vip_now">Become a VIP now</string>
+    <string name="play_pause" translatable="false">play/pause</string>
+    <string name="no_ads" translatable="false">No ads?</string>
+    <string name="search">Search</string>
+    <string name="more">More</string>
+    <string name="help">help</string>
+    <string name="marks_details">Marks details</string>
+    <string name="sharing_is_caring">Sharing is caring...</string>
+    <string name="your_answer">Your answer:</string>
+    <string name="correct_answer_label">Correct Answer:</string>
+    <string name="kk_coins_balance_label">KKCoins Balance:</string>
+    <string name="trouble_watching_ads">Trouble watching ads?</string>
+    <string name="suggest_entertainment">Suggest entertainment</string>
+    <string name="suggest_entertainment_message">\nThanks for your support. Please enter url of the video you would like to suggest</string>
+    <string name="thanks_for_the_feedback">Thanks for the feedback</string>
+    <string name="thanks_for_the_feedback_message">\nWe have always believed in end-user driven development. Please input your valuable feedback in the below field</string>
+    <string name="coins_added_label">Coins Added:</string>
+    <string name="coins_deducted_label">Coins Deducted:</string>
+    <string name="set_label">Set -</string>
+    <string name="set_label_">Set %d</string>
+    <string name="progress_will_be_discarded">Your quiz progress will be discarded.</string>
+    <string name="progress_will_be_discarded_with_coins">Your quiz progress will be discarded and you will loose paid 10 coins!</string>
+    <string name="continue_">Continue</string>
+    <string name="try_it_yourself">Try it yourself</string>
+    <string name="rate_app">RATE APP</string>
+    <string name="input_your_valuable_feedback">Input your valuable feedback here</string>
+    <string name="loading_entertainment">Loading entertainment…</string>
+    <string name="telugu" translatable="false">తెలుగు</string>
+    <string name="tamil" translatable="false">தமிழ்</string>
+    <string name="malayalam" translatable="false">മലയാളം</string>
+    <string name="marathi" translatable="false">मराठी</string>
+    <string name="i_can_help_with_other_language">I can help with other language</string>
+    <string name="i_can_help">I can help</string>
+    <string name="can_help_message_with_place_holder" translatable="false">I can help in translations with %s language. Please let me know the procedure.</string>
+    <string name="translation_help_with_ph">Translation help - %s</string>
+    <string name="translation_help_instructions">I am aware of below conditions and I can help with translations for %s\n\n
+    -- I am proficient in %s language\n
+    -- I know to type in %s language using mobile or laptop keyboard\n
+    -- I can use online websites to type %s language</string>
+    <string name="translation_help_instructions_for_new_lang">
+        I am aware of below conditions and I can help with translations for below entered language\n\n
+    -- I am proficient in this language\n
+    -- I know to type in this language using mobile or laptop keyboard\n
+    -- I can use online websites to type this language
+    </string>
+    <string name="enter_language_here">Enter Language Here</string>
+    <string name="other">Other</string>
+    <string name="translation_support" translatable="false">Translation Support</string>
+    <string name="todays_word">Today\'s word: %s</string>
+    <string name="play_now">Play now</string>
+    <string name="press_back_again">Press BACK again to exit</string>
+    <string name="coming_soon">Coming Soon!!</string>
+    <string name="language_preference_found">Language preference found!!</string>
+    <string name="change_language_body">Let\'s update your Kannada learning language?</string>
+    <string name="sign_in_to_change_language">Please signin to change language</string>
+    <string name="learn_kannada_through_any_available_language">Learn Kannada through <b>ANY</b> available language</string>
+    <string name="need_to_unlock_vip" translatable="false">You need to unlock VIP membership to change Kannada learning language.</string>
+    <string name="check_vip_benefits" translatable="false">Check VIP Benefits</string>
+    <string name="continue_with_english" translatable="false">Continue with English for FREE</string>
+    <string name="try_telugu">Try Telugu</string>
+    <string name="telugu_is_live_message">You can now learn Kannada through Telugu!</string>
+    <string name="learn_kannada_smartapp" translatable="false">Learn Kannada SmartApp</string>
+    <string name="welcome_transition" translatable="false">welcome_transition</string>
+
+    <!-- FIRST WORD ENDS -->
+
+</resources>
