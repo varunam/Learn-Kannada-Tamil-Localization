@@ -1,19 +1,15 @@
 <resources>
-    <string name="app_name_english" translatable="false">Learn Kannada SmartApp</string>
-    <string name="app_name">Learn Kannada SmartApp</string>
-    <string name="action_settings">Settings</string>
-    <string name="welcomeNote">Welcome to Kannada Kali</string>
-    <string name="resultShareBody" translatable="false">Sharing result</string>
-    <string name="certificateText" translatable="false">\t\t has successfully completed quiz \n(Level - %1$s) in the <b>\"Learn Kannada Smartapp\"</b> and secured %2$s.</string>
-    <string name="learn_kannada">Learn Kannada</string>
-    <string name="english">English</string>
-    <string name="kannada">Kannada</string>
-    <string name="translation_mode_k2l">Translation mode: \'Kan to Eng\'</string>
-    <string name="translation_mode_l2k">Translation mode: \'Eng to Kan\'</string>
-
-    <string name="what_is_iwt">What\'s IWT?</string>
-    <string name="update_name">Update name</string>
-    <string name="show_tutor">Show Tutor</string>
+    <string name="app_name">கன்னடம் கற்க ஸ்மார்டாப்</string>
+    <string name="action_settings">அமைப்புகள்</string>
+    <string name="welcomeNote">கன்னடம் கற்க வருக</string>
+    <string name="learn_kannada">கன்னடம் கல்</string>
+    <string name="english">ஆங்கிலம்</string>
+    <string name="kannada">கன்னடம்</string>
+    <string name="translation_mode_k2l">மொழி மாற்றம் - கன்னடத்தில் இருந்து ஆங்கிலம்</string>
+    <string name="translation_mode_l2k">மொழி மாற்றம் - ஆங்கிலத்தில் இருந்து கன்னடம்</string>
+    <string name="what_is_iwt">என்றால் என்ன?</string>
+    <string name="update_name">பெயரை மாற்றுக</string>
+    <string name="show_tutor">ஆசிரியரைக் காட்டுக</string>
 
     <string name="words">Words</string>
     <string name="conversations">Conversations</string>
